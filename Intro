@@ -1,3 +1,3 @@
 Having cleaned the data of tornto I would like to find out using the forsquare api the most trending places there in order to be able to specify the best location for some 
-businesses e.g. (hotel, restaurant, coffe shop). I will only be using these three exmples. Agter clustering the data only baseb on those three I should be able to find out 
+businesses e.g. (hotel, restaurant, coffe shop). I will only be using these three exmples. After clustering the data only based on those three I should be able to find out 
 where they would be profitable 
